@@ -1,0 +1,26 @@
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+  color: black;
+  height: 60px;
+}
+
+a{
+  color: black
+}
+
+#home{
+  width: 100vh;
+  height: 100vh;
+  background-color: blueviolet;
+}
+
+
+#about{
+  color: red;
+  width: 100vh;
+  height: 100vh;
+}
+
